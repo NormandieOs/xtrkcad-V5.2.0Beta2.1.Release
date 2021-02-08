@@ -113,4 +113,4 @@ Steps:<br>
          xdg-desktop-icon install --novendor ${INSTALLDIR}/applications/xtrkcad.desktop<br>
 
 Good luck
-# xtrkcad-V5.2.0GA-Release
+
