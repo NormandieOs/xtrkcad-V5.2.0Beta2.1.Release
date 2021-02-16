@@ -1,0 +1,21 @@
+Index: xtrkcad-setup-5.2.0Beta2.1/app/lib/xtrkcad.desktop
+===================================================================
+--- xtrkcad-setup-5.2.0Beta2.1.orig/app/lib/xtrkcad.desktop
++++ xtrkcad-setup-5.2.0Beta2.1/app/lib/xtrkcad.desktop
+@@ -1,9 +1,13 @@
+ [Desktop Entry]
+ Encoding=UTF-8
+ Name=XTrackCAD
++Name[fr]=XTrackCAD
++GenericName=CAD program for designing Model Railroad layouts
++GenericName[fr]=Programme CAD modèlisme chemin de fer
+ Comment=Design model railroad layouts
++Comment[fr]=Concevoir des modèles de chemin de fer
+ Exec=xtrkcad
+-Icon=xtrkcad.png
++Icon=xtrkcad
+ Terminal=false
+ Type=Application
+-Categories=Graphics;Game
+\ No newline at end of file
++Categories=Graphics;2DGraphics

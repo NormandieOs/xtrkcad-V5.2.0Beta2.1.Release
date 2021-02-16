@@ -1,0 +1,26 @@
+-------------------------------------------------------------------
+Thu Sep 03 15:41:22 UTC 2020 - Laffite Gilles <gilles.laffite76@gmail.com>
+
+-Import xtrkcad-source 5.2.0Beta2.1
+-Modified xtrkcad.spec
+-Fix xtrkcad.desktop
+-Modified source xtrkcad-source 5.2.0Beta2.1
+-  Insert XTRKCAD_USE_GETTEXT ON
+-  Modified flags
+   
+-------------------------------------------------------------------
+Sat Apr 18 07:46:05 UTC 2020 - Laffite Gilles <gilles.laffite76@gmail.com>
+
+- modified xtrkcad.spec
+  -insert BuildRequires: doxygen
+  -insert BuildRequires: gettext-runtime
+
+-------------------------------------------------------------------
+Tue Apr  7 16:15:29 UTC 2020 - gilles.laffite76@gmail.com
+
+- Initial import xtrkcad 5.1.2a
+
+-------------------------------------------------------------------
+Wed May 30 23:19:41 UTC 2018 - gboiko@suse.com
+
+- Initial import
