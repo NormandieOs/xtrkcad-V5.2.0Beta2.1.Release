@@ -1,6 +1,8 @@
 XtrkCAD V5.2.0Beta2.1 Release for openSUSE Leap 15.1,15.2 and Tumblewed
- -rpm http://software.opensuse.org/explore   ALL Distributions xtrkcad explore.
- -rpm http://sourceforge.net/projects/fr-xtrckcad/files/Version%205.2.0/Beta2.1/linux/openSUSE/
+
+ -rpm download http://software.opensuse.org/explore   ALL Distributions xtrkcad explore.
+ 
+ -rpm download http://sourceforge.net/projects/fr-xtrckcad/files/Version%205.2.0/Beta2.1/linux/openSUSE/
 
 # Release Notes
 
